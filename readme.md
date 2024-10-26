@@ -1,3 +1,10 @@
+# Disclaimer
+Автор оригинального репозитория не отвечал в пул реквесте, поэтому был создан форк с исправлениями и дополнениями.
+
+# Установка
+Собранный Jar файл доступен на странице релизов:
+https://github.com/paragor/keycloak-russian-providers/releases 
+
 # Провайдеры авторизации российских социальных сетей для Keycloak.
 
 ***Please find english version [here](readme_en.md).***

@@ -1,3 +1,10 @@
+# Disclaimer
+Author of the original repository did not respond to the pull request, so a fork was created with fixes and additions.
+
+# Установка
+Compiled Jar file is available on the releases page:
+https://github.com/paragor/keycloak-russian-providers/releases
+
 # Russian social networks identity providers for Keycloak.
 
 This is Russian social networks identity providers library for [Keycloak](https://www.keycloak.org/) server.
